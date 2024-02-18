@@ -14,8 +14,8 @@ Install the dependencies using pip
 
 
 2. Download `E_model.pkl` and Import the model and load it from the PKL file:
-```import pickle
 
+```import pickle
 # Load the model from the PKL file
 with open('model.pkl', 'rb') as file:
     model = pickle.load(file)
