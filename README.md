@@ -4,7 +4,7 @@ This repo is an implementation for Arabic and English language speech trainer fo
 ## Requirements
 
 - Python 3.x
-- Dependencies: gtts, speechrecognition, nltk
+- Dependencies: gtts, speechrecognition, nltk,sentence_transformers
 
 Install the dependencies using pip
 
