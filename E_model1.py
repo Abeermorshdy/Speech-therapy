@@ -75,7 +75,7 @@ class SimilarityCalculator:
 
         return average_similarity
 
-# Instantiate the class
+# Instantiate the class to test
 similarity_calculator = SimilarityCalculator()
 
 # Save the class instance to a .pkl file
