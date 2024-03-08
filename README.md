@@ -5,6 +5,7 @@ This repo is an implementation for Arabic and English language speech trainer fo
 
 - Python 3.x
 - Dependencies: gtts, speechrecognition, nltk,sentence_transformers
+- You can study the code to understand from this file `main.ipynb`
 
 Install the dependencies using pip
 
