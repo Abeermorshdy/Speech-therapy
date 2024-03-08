@@ -76,8 +76,8 @@ def calculate_average_similarity_arabic(file_path, folder_path):
     return average_similarity
 
 
-# Example usage
+# Example usage 
 file_path = "Arabic_sentences.txt"
 folder_path = "Arabic_records"
 average_similarity = calculate_average_similarity_arabic(file_path, folder_path)
-print("Average Similarity:", average_similarity)
+print("Average Similarity for test:", average_similarity)
