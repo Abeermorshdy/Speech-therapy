@@ -13,7 +13,7 @@ Install the dependencies using pip
 1. Prepare your input text file containing the Arabic or English sentences you want to compare. Each sentence should be on a new line, check `English_sentences.txt` file. 
 2. Prepare the input records in a folder called `English_records` or `Arabic_records`
 
-3. Download `E_model.pkl` from here (link)[https://drive.google.com/file/d/1N6o4c8WMsxlNPTURt8RNKy5q6cdtUskE/view?usp=drive_link] and Import the model and load it from the PKL file:
+3. Download `E_model.pkl` from here [link](https://drive.google.com/file/d/1N6o4c8WMsxlNPTURt8RNKy5q6cdtUskE/view?usp=drive_link) and Import the model and load it from the PKL file:
 
 ```import pickle
 # Load the model from the PKL file
